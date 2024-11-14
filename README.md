@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/115c7d9a-5697-482f-af70-938fe4a54a4f)
+
+
 # Discord Bot Integração GroqCloud - POSTECH
 
 Este projeto é um bot para Discord que utiliza a API do GroqCloud para gerar respostas automáticas a partir das mensagens recebidas.
